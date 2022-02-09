@@ -62,6 +62,7 @@ section, .section {
 .wrapper {
   display: flex;
   flex-direction: column;
+  max-width: 900px;
   min-height: 100vh;
   margin: 0 auto;
 }
